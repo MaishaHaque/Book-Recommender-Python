@@ -7,3 +7,4 @@ Basic **HTML**, **CSS**, **Boostrap** for web.
 -Popularity Based (Avg top review)\
 -Collaborative Filtering Based (Recommendation based on Similarity)
 
+![alt text](https://github.com/MaishaHaque/Book-Recommender-Python/blob/main/homepage.png))
